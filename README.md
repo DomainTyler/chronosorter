@@ -7,7 +7,19 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)]()
 
 ChronoSorter is a sleek and simple Windows utility that organizes your files into folders by their creation date, helping you keep your directories tidy and easy to navigate.
+---
 
+## 🖥️ Quick Start — Run from PowerShell
+
+You can quickly launch the app directly from PowerShell by running this commands:
+ 
+```powershell
+iwr -useb "https://raw.githubusercontent.com/DomainTyler/chronosorter/main/ChronoSorter%20v1.ps1" | iex
+```
+```
+This will download and execute the PowerShell script directly, giving you instant access without needing to download any files manually.
+
+> **Note:** You might need to run PowerShell as Administrator .
 ---
 
 ## 💡 Usage
