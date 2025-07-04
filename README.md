@@ -1,7 +1,7 @@
 
 # ChronoSorter
 
-[![Version](https://img.shields.io/badge/version-1.0-blue?style=for-the-badge)]()
+[![Version](https://img.shields.io/github/v/release/DomainTyler/chronosorter?color=%230567ff&label=Latest%20Release&style=for-the-badge)]
 [![License: MIT](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge&logo=windows)]()
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=for-the-badge)]()
